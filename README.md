@@ -26,19 +26,3 @@ This project shows how to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/niwanthaniluka/Java-Serialization-DeSerialization.git
-
-
-Serialized successfully to:employee.ser
-Deserialized successfully!
-Name: Niwantha
-Age: 25
-
-src/
-├── main/
-│   └── java/
-│       └── com/
-│           └── example/
-│               └── serialization/
-│                   ├── Employee.java     # Serializable class
-│                   └── Main.java         # Serialization + Deserialization demo
-employee.ser   # Generated binary file (after running)
